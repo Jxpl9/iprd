@@ -1,5 +1,5 @@
 {
-  "total_stations": 22381,
+  "total_stations": 22405,
   "total_countries": 228,
   "countries": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "code": "PL",
-      "count": 610
+      "count": 634
     },
     {
       "code": "AE",
@@ -1644,7 +1644,7 @@
     {
       "code": "PL",
       "file": "streams/pl/pl.m3u",
-      "count": 610
+      "count": 634
     },
     {
       "code": "PG",
@@ -2217,11 +2217,11 @@
     "top_genres": [
       {
         "name": "(.*)",
-        "count": 39896
+        "count": 39944
       },
       {
         "name": "",
-        "count": 20835
+        "count": 20859
       },
       {
         "name": "news",
@@ -2417,5 +2417,5 @@
       }
     ]
   },
-  "updated": "2025-07-02T02:03:40Z"
+  "updated": "2025-07-06T02:21:21Z"
 }
